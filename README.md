@@ -12,7 +12,7 @@
 
 你可以在[知乎](https://www.zhihu.com/people/SkyYkb)和[GitHub](https://github.com/SkyYkb)找到我。也可以发送电邮到[rat.haven.0h@icloud.com](mailto:rat.haven.0h@icloud.com)。
 
-如果你需要传递一些隐秘内容，请使用GnuPG。请注意，我未将我的密钥上传到Key Server，我的公钥可以且仅可以在此处下载：[https://kaiy.moe/about/Kai.gpg](https://kaiy.moe/about/Kai.gpg)。请在下载后确保密钥指纹与下列内容相符。
+如果你需要传递一些隐秘内容，请使用GnuPG。请注意，我未将我的密钥上传到Key Server，我的公钥可以且仅可以在此处下载：[https://kaiy.top/about/Kai.gpg](https://kaiy.top/about/Kai.gpg)。请在下载后确保密钥指纹与下列内容相符。
 
 ```
 pub   ed25519 2021-07-06 [SC]
