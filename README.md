@@ -1,12 +1,8 @@
-## 陽楷锴是谁？
-
-浙江温州（没错，江南皮革厂地区）一个中学生。
-
-## 你的名字看起来非常难写，如何是好？
+## 名字写法……
 
 中文语境下，正体/繁体中文的「陽」（简体中写作「阳」）加上简体中文的「楷锴」即可。当然全部打成正体/繁体或者简体也无伤大雅，开心就好啦～
 
-外语语境下写成Kai/Kaiy/Kai Y，或者想再正式一点写成Kai Yang都可以。
+外文名……叫做Kainichy。其实也就是“kaiy.top”里“Kaiy”的完全体。
 
 ## 联系方式
 
@@ -21,3 +17,12 @@ uid           [ultimate] Kai Yang <rat.haven.0h@icloud.com>
 uid           [ultimate] Kai Yang (GitHub No-reply Email) <44992049+RiverKy@users.noreply.github.com>
 sub   cv25519 2021-07-06 [E]
 ```
+
+## 千疮百孔的技术栈&版权信息
+
+- 此博客托管于[Cloudflare Pages](https://pages.cloudflare.com)；
+- 由[Astro](https://astro.build)强力驱动；
+  - 主题为[Fuwari](https://github.com/saicaca/fuwari)；
+- 题图来自[Pixiv: @QuAn_](https://www.pixiv.net/en/users/6657532)：[https://www.pixiv.net/en/artworks/85633671](https://www.pixiv.net/en/artworks/85633671)；
+- 得益于[Cloudflare在环保方面的努力](https://blog.cloudflare.com/the-climate-and-cloudflare)，本站已通过[The Green Web Foundation的绿色网站认证](https://www.thegreenwebfoundation.org/green-web-check?url=kaiy.top)：<br />
+    <img src="https://api.thegreenwebfoundation.org/greencheckimage/kaiy.top" alt="This website is hosted Green - checked by thegreenwebfoundation.org">
