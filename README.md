@@ -13,8 +13,8 @@
 ```
 pub   ed25519 2021-07-06 [SC]
       47B8C624F2D081046E13125DC7DA0F0185628800
-uid           [ultimate] Kai Yang <rat.haven.0h@icloud.com>
-uid           [ultimate] Kai Yang (GitHub No-reply Email) <44992049+RiverKy@users.noreply.github.com>
+uid           [ultimate] Kainichy <rat.haven.0h@icloud.com>
+uid           [ultimate] Kainichy (GitHub No-reply) <44992049+Kainichy@users.noreply.github.com>
 sub   cv25519 2021-07-06 [E]
 ```
 
